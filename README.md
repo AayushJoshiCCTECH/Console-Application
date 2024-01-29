@@ -26,7 +26,7 @@ The project is organized into the following folders:
 ## 5. Square
 - Header: Headers/Square.h
 - Implementation: src/Square.cpp
-  ## 5. Square
+## 5. Ellipse
 - Header: Headers/Ellipse.h
 - Implementation: src/Ellipse.cpp
 
