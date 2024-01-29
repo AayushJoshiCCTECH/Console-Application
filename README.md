@@ -12,8 +12,8 @@ The project is organized into the following folders:
 - **main.cpp**: Main source file where the program execution starts.
 
 ##  1. Rectangle
-Header: include/Rectangle.h
-Implementation: src/Rectangle.cpp
+- Header: include/Rectangle.h
+- Implementation: src/Rectangle.cpp
 ## 2. Triangle
 Header: include/Triangle.h
 Implementation: src/Triangle.cpp
