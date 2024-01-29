@@ -20,3 +20,11 @@ Implementation: src/Triangle.cpp
 ## 3. Circle
 Header: include/Circle.h
 Implementation: src/Circle.cpp
+
+
+## Building and Running
+
+1. Clone or download the repository to your local machine.
+
+```bash
+git clone https://github.com/AayushJoshiCCTECH/geometric-shapes.git
