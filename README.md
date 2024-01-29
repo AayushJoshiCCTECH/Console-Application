@@ -1,4 +1,4 @@
-# Geometric Shapes Project
+# Geometric Shapes console application Project
 
 This C++ project is designed to handle geometric shapes, including Rectangle, Triangle, and Circle. The project follows a modular structure with separate header (.h) and implementation (.cpp) files for each class.
 
@@ -7,20 +7,28 @@ This C++ project is designed to handle geometric shapes, including Rectangle, Tr
 The project is organized into the following folders:
 
 
-- **include**: Contains header files for each geometric shape class.
+- **Headers**: Contains header files for each geometric shape class.
 - **src**: Contains implementation files corresponding to each header file.
 - **main.cpp**: Main source file where the program execution starts.
 
 ##  1. Rectangle
-- Header: include/Rectangle.h
+- Header: Headers/Rectangle.h
 - Implementation: src/Rectangle.cpp
 ## 2. Triangle
-Header: include/Triangle.h
-Implementation: src/Triangle.cpp
+- Header: Headers/Triangle.h
+- Implementation: src/Triangle.cpp
 ## 3. Circle
-Header: include/Circle.h
-Implementation: src/Circle.cpp
-
+- Header: Headers/Circle.h
+- Implementation: src/Circle.cpp
+ ## 4. Line
+- Header: Headers/Line.h
+- Implementation: src/Line.cpp
+## 5. Square
+- Header: Headers/Square.h
+- Implementation: src/Square.cpp
+  ## 5. Square
+- Header: Headers/Ellipse.h
+- Implementation: src/Ellipse.cpp
 
 ## Building and Running
 
